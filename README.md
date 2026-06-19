@@ -1,7 +1,7 @@
 # Hi, I'm Sajida Tabssum 👋
 
 ## About Me
-I am [your age] years old and learning to code through the Codora Kids
+I am learning to code through the Codora Kids
 AI-Powered Programming Mentor Programme with Sajida Tabassum.
 
 ## What I'm Learning
